@@ -4,7 +4,7 @@
 
 This project analyzes customer growth, revenue performance, network experience, and customer retention for a Telkom case study developed as part of the Telkom × RevoU Virtual Internship. Using customer, subscription, billing, usage, network quality, complaint, and churn data, the analysis identifies business opportunities to improve customer experience, strengthen retention, and support sustainable revenue growth.
 
-**Project Duration:** [Month Year]
+**Project Duration:** [September 2026]
 
 ---
 
