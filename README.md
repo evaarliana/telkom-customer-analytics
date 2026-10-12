@@ -105,15 +105,15 @@ The Power BI dashboard consists of three pages, covering:
 
 ### Page 1 — Customer & Revenue Overview
 
-![Customer & Revenue Overview](./dashboard/Page%201%20%E2%80%94%20Customer%20%26%20Revenue%20Overview.png)
+![Customer & Revenue Overview](./dashboard/Page%201%20%E2%80%94%20Customer%20%26%20Revenue%20Overview.jpg)
 
 ### Page 2 — Network & Customer Experience
 
-![Network & Customer Experience](./dashboard/Page%202%20%E2%80%94%20Network%20%26%20Customer%20Experience.png)
+![Network & Customer Experience](./dashboard/Page%202%20%E2%80%94%20Network%20%26%20Customer%20Experience.jpg)
 
 ### Page 3 — Customer Retention
 
-![Customer Retention](./dashboard/Page%203%20%E2%80%94%20Customer%20Retention.png)
+![Customer Retention](./dashboard/Page%203%20%E2%80%94%20Customer%20Retention.jpg)
 
 ---
 
