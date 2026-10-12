@@ -1,8 +1,8 @@
-# Telkomsel Customer Analytics
+# Telkom Customer Analytics
 
 ## Project Overview
 
-This project analyzes customer growth, revenue performance, network experience, and customer retention for a Telkomsel case study developed as part of the Telkomsel × RevoU Virtual Internship. Using customer, subscription, billing, usage, network quality, complaint, and churn data, the analysis identifies business opportunities to improve customer experience, strengthen retention, and support sustainable revenue growth.
+This project analyzes customer growth, revenue performance, network experience, and customer retention for a Telkom case study developed as part of the Telkom × RevoU Virtual Internship. Using customer, subscription, billing, usage, network quality, complaint, and churn data, the analysis identifies business opportunities to improve customer experience, strengthen retention, and support sustainable revenue growth.
 
 **Project Duration:** [Month Year]
 
@@ -141,4 +141,4 @@ The Power BI dashboard consists of three pages, covering:
 
 ## Disclaimer
 
-This project was developed for educational and portfolio purposes as part of the Telkomsel × RevoU Virtual Internship. The analysis is based on the datasets provided for the case study and should not be interpreted as a representation of actual Telkomsel customer data, operational performance, or business results.
+This project was developed for educational and portfolio purposes as part of the Telkom × RevoU Virtual Internship. The analysis is based on the datasets provided for the case study and should not be interpreted as a representation of actual Telkom customer data, operational performance, or business results.
