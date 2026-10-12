@@ -103,9 +103,15 @@ The Power BI dashboard consists of three pages, covering:
 - Network quality, latency, downtime, complaints, and customer satisfaction
 - Customer retention, churn trends, and churn patterns across customer segments
 
+### Page 1 — Customer & Revenue Overview
+
 ![Customer & Revenue Overview](./dashboard/Page%201%20%E2%80%94%20Customer%20%26%20Revenue%20Overview.png)
 
+### Page 2 — Network & Customer Experience
+
 ![Network & Customer Experience](./dashboard/Page%202%20%E2%80%94%20Network%20%26%20Customer%20Experience.png)
+
+### Page 3 — Customer Retention
 
 ![Customer Retention](./dashboard/Page%203%20%E2%80%94%20Customer%20Retention.png)
 
@@ -127,7 +133,7 @@ The Power BI dashboard consists of three pages, covering:
 
 | File | Description |
 |---|---|
-| `sql/03_EDA_VI_Project.sql` | SQL queries for exploratory data analysis and business findings |
+| `analysis/` | SQL queries for exploratory data analysis and business findings |
 | `dashboard/` | Three-page dashboard visualizations |
 | `presentation/` | Project presentation and business insights |
 
